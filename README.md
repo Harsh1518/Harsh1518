@@ -14,15 +14,15 @@
 <a href="www.linkedin.com/in/harsh-anand-750510234">LinkedIn</a>
 
 <h2>🛠 Languages & Tools</h2>
-<div style="display:flex">
-<img width ="50px" height="50px" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg">
-<img width ="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4qQpsjvEV786rJ9a5aVZlZbPLmrsVgFN28XVlTc&s">
-<img width ="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
-<img width ="50px" height="50px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png">
-<img width ="50px" height="50px" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640">
-<img width ="50px" height="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png">
-<img width ="50px" height="50px" src="https://camo.githubusercontent.com/19012171c9664630527c09ac9045b05b50cd03088d6ed8a9664d6e1fa4aeb89c/68747470733a2f2f616d616e646565706d697474616c2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f616d616e646565706d697474616c2f657870726573736a732f322e302e302f313530393838313239333837322f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74">
-<img width ="200px" height="200px"  src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
+<div style="display:flex text-align:center">
+<img width ="75px" height="75px" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg">
+<img width ="75px" height="75px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4qQpsjvEV786rJ9a5aVZlZbPLmrsVgFN28XVlTc&s">
+<img width ="75px" height="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+<img width ="75px" height="75px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png">
+<img width ="75px" height="75px" src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640">
+<img width ="75px" height="75px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png">
+<img width ="75px" height="75px" src="https://camo.githubusercontent.com/19012171c9664630527c09ac9045b05b50cd03088d6ed8a9664d6e1fa4aeb89c/68747470733a2f2f616d616e646565706d697474616c2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f616d616e646565706d697474616c2f657870726573736a732f322e302e302f313530393838313239333837322f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74">
+<img width ="75px" height="75px"  src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
 </div>
 
 <!---
