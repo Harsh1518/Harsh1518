@@ -14,7 +14,7 @@
 <a href="www.linkedin.com/in/harsh-anand-750510234">LinkedIn</a>
 
 <h2>🛠 Languages & Tools</h2>
-<div style="display:flex text-align:center">
+<div style="display:flex">
 <img width ="75px" height="75px" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg">
 <img width ="75px" height="75px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4qQpsjvEV786rJ9a5aVZlZbPLmrsVgFN28XVlTc&s">
 <img width ="75px" height="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
